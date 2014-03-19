@@ -12,17 +12,16 @@
 <body>
 	<header>			
 		<div id="bandeau">
-			<div id="logo"></div>
-		</div>
+			<nav>
+				<?php include('menu.inc.php');?>
+			</nav>
+		</div>		
 	</header>
-	<nav>
-		<?php include('menu.inc.php');?>
-		 </div>
-	</nav>
 	<div id="imagebandeau">
 	</div>
 	<section>
 		<div id="corps">
+		</div>
 	</section>
 	<footer> 
 	</footer>
