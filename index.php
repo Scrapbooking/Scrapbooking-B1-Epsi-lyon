@@ -23,7 +23,6 @@
 	</div>
 	<section>
 		<div id="corps">
-		</div>
 	</section>
 	<footer> 
 	</footer>
